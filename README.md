@@ -1,5 +1,7 @@
 # HABEHSA NEWS - API
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a9bf5cdb216a4c8fadbd3ccc5c7eaff6)](https://app.codacy.com/app/LPIX-11/habesha-news?utm_source=github.com&utm_medium=referral&utm_content=LPIX-11/habesha-news&utm_campaign=Badge_Grade_Dashboard)
+
 ## Overview
 This is the API for the Habesha News Android app used for Modern Software
 Development and its subsequent Android App Development class. API is
